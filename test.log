@@ -1,0 +1,10 @@
+[InstallShield Silent]
+Version=v7.00
+File=Log File
+[ResponseResult]
+ResultCode=0
+[Application]
+Name=RICOH R5U230 Media Driver ver.2.06.02.02
+Version=2.06.02.02
+Company=RICOH
+Lang=0019
